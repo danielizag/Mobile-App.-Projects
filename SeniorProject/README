@@ -1,0 +1,3 @@
+Senior project made to be a possible application for contractor/sub-contractor business models. Alpha version was made for the project, however now it is still in progress (for fun). Technologies: Android, Java, Custom Web Service (RESTful API). 
+
+Application is made with android studio and java. The web service is made using PHP, where it is providing JSON data via URI to transmit (GET) data and receive (POST) data.
