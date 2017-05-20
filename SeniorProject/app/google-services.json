@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "534089976176",
+    "firebase_url": "https://senior-project-5b11a.firebaseio.com",
+    "project_id": "senior-project-5b11a",
+    "storage_bucket": "senior-project-5b11a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534089976176:android:07e58363f573d92b",
+        "android_client_info": {
+          "package_name": "com.dan2you.dizzy.seniorproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534089976176-uta9ii665j01ujbpe195rht76hmsrh0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCLSaknQeROc_qic6MDBtZiUgZgKSRSOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
