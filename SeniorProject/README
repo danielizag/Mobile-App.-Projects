@@ -8,4 +8,5 @@ JSON data via URI to transmit (GET) data and receive (POST) data.
 Finished: web service, RecyclerView/CardView, Google Maps API, current job Details, job issue submition, 
 employee w/ emp. details.
 
-Backlog: Employee Scheduling, CardView OnClickListener
+Backlog: Employee Scheduling, CardView OnClickListener, refactor: activities into fragments where possible
+and make a single data call into an app-wide bundle. 
