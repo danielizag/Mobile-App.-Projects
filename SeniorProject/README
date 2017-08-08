@@ -3,7 +3,7 @@ was made for the project, however now it is still in progress (for fun). Technol
 Custom Web Service (RESTful API). 
 
 Application is made with android studio and java. The web service is made using PHP, where it is providing 
-JSON data via URI to transmit (GET) data and receive (POST) data.
+JSON data via URI to transmit (POST) data and receive (GET) data.
 
 Finished: web service, RecyclerView/CardView, Google Maps API, current job Details, job issue submition, 
 employee w/ emp. details.
